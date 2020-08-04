@@ -1,0 +1,50 @@
+[
+    {
+        "productName":"MANGO PEOPLE T-SHIRT",
+        "productPrice":50,
+        "productImg":"https://raw.githubusercontent.com/VikPaul/JavaScript_1/master/product-img/product_1.png",
+        "productId":"prod_0"
+    },
+    {
+        "productName":"BANANA PEOPLE T-SHIRT",
+        "productPrice":150,
+        "productImg":"https://raw.githubusercontent.com/VikPaul/JavaScript_1/master/product-img/product_2.png",
+        "productId":"prod_1"
+    },
+    {
+        "productName":"STRAWBERRY PEOPLE T-SHIRT",
+        "productPrice":40,
+        "productImg":"https://raw.githubusercontent.com/VikPaul/JavaScript_1/master/product-img/product_3.png",
+        "productId":"prod_2"
+    },
+    {
+        "productName":"ORANGE PEOPLE T-SHIRT",
+        "productPrice":30,
+        "productImg":"https://raw.githubusercontent.com/VikPaul/JavaScript_1/master/product-img/product_4.png",
+        "productId":"prod_3"
+    },
+    {
+        "productName":"APPLE PEOPLE T-SHIRT",
+        "productPrice":70,
+        "productImg":"https://raw.githubusercontent.com/VikPaul/JavaScript_1/master/product-img/product_5.png",
+        "productId":"prod_4"
+    },
+    {
+        "productName":"PINEAPPLE PEOPLE T-SHIRT",
+        "productPrice":100,
+        "productImg":"https://raw.githubusercontent.com/VikPaul/JavaScript_1/master/product-img/product_6.png",
+        "productId":"prod_5"
+    },
+    {
+        "productName":"FLOWERS PEOPLE T-SHIRT",
+        "productPrice":205,
+        "productImg":"https://raw.githubusercontent.com/VikPaul/JavaScript_1/master/product-img/product_7.png",
+        "productId":"prod_6"
+    },
+    {
+        "productName":"BLUEBERRY PEOPLE T-SHIRT",
+        "productPrice":149,
+        "productImg":"https://raw.githubusercontent.com/VikPaul/JavaScript_1/master/product-img/product_8.png",
+        "productId":"prod_7"
+    }
+]
